@@ -13,3 +13,13 @@ Thumbs.db
 
 # Ignore working project files
 project.ipynb
+.venv/bin/activate
+.venv/bin/activate
+.venv/bin/activate
+.gitignore
+.venv/bin/ipython3
+.venv/bin/ipython
+.venv/bin/fonttools
+.venv/bin/debugpy-adapter
+.venv/bin/debugpy
+.venv/bin/activate.fish
